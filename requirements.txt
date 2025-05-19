@@ -1,0 +1,22 @@
+pytest
+
+# Optional packages for future enhancements:
+
+# For sending emails via SMTP
+# No extra package needed, Python's smtplib is built-in
+# For SMS sending (Twilio)
+twilio
+
+# For building web apps
+flask
+fastapi
+uvicorn
+
+# For GUI apps
+tkinter  # Usually comes built-in with Python, no need to install separately
+
+# For QR code generation
+qrcode
+
+# For managing expiry timers and date-time operations
+python-dateutil
